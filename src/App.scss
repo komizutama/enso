@@ -1,31 +1,44 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css?family=Kanit|The+Girl+Next+Door');
 
-.App-logo {
-  height: 40vmin;
+.App {
+  color: rgb(47, 45, 48)
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+	text-align: center;
+  min-heigh: 50vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: calc(20px + 2vmin);
 }
 
-.App-link {
-  color: #61dafb;
+
+
+.App-body {
+	text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Kanit-thin', sans-serif;
+  font-weight: 100;
+  min-width: 80vw;
+    font-size: calc(9px + 2vmin);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-announce {
+	width: 80vw;
+}
+
+svg.App-down {
+	width: 8vw;
+	margin: 8vw;
+}
+
+.App-faq {
+	margin: 10vh 0vh;
+	text-align: left;
+	width: 90vw;
 }
