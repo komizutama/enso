@@ -28,10 +28,12 @@ class App extends Component {
                 We begin this stage with zen circles.<br/>
                 <br/>
             </div>
+            <a href="App-faq" className="App-down">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 91.3" className="App-down">
                 <path d="M300 10.1L294.7 0 150.1 78.3 5.5 0 0 10.1l149.9 81.2.2-.2v.2L300 10.1z" fill="#2f2d30"/>
             </svg>
-            <div className="App-faq">
+            </a>
+            <div id="App-faq">
                 FAQ<br/>
                 You’re being cryptic intentionally, aren’t you?<br/>
                 Yes. A girl’s got to have some secrets. <br/>
