@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.scss';
-import downArrow from './Down.svg'
 
 
 class App extends Component {
