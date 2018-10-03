@@ -1,0 +1,13 @@
+{
+  "main.css": "/enso/static/css/main.b9e79741.chunk.css",
+  "main.js": "/enso/static/js/main.ea8cc588.chunk.js",
+  "main.js.map": "/enso/static/js/main.ea8cc588.chunk.js.map",
+  "static/js/1.8d07f679.chunk.js": "/enso/static/js/1.8d07f679.chunk.js",
+  "static/js/1.8d07f679.chunk.js.map": "/enso/static/js/1.8d07f679.chunk.js.map",
+  "runtime~main.js": "/enso/static/js/runtime~main.102028bd.js",
+  "runtime~main.js.map": "/enso/static/js/runtime~main.102028bd.js.map",
+  "static/css/main.b9e79741.chunk.css.map": "/enso/static/css/main.b9e79741.chunk.css.map",
+  "index.html": "/enso/index.html",
+  "precache-manifest.09cfd7e4d5682cef0db0b06a64763945.js": "/enso/precache-manifest.09cfd7e4d5682cef0db0b06a64763945.js",
+  "service-worker.js": "/enso/service-worker.js"
+}
