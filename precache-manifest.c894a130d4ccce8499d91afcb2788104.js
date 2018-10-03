@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/enso/static/css/main.b9e79741.chunk.css"
   },
   {
-    "revision": "4c036e0d7aa8adf7c97bb736b5d01585",
+    "revision": "fa07938dfc6fc2cf985d7eec664efe95",
     "url": "/enso/index.html"
   }
 ];
