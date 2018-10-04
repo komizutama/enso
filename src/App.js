@@ -80,7 +80,7 @@ class App extends Component {
                 Will those recordings be available for viewing?<br/>
                 Some will be to all. All will be to some.<br/>
                 <br/>
-                Will I be able to acquire a zen circle or one of its copies? 
+                Will I be able to acquire a zen circle or one of its copies?<br/>
                 Most likely. I’d be surprised if you couldn’t acquire a share/facsimile/piece/representation of at least one of them.<br/>
                 One will be available to whomsoever provides the most support to this project. One format of support is financial backing. It is not the only format. <br/>
                 I can assure you that earlier stage support of the project will not be forgotten and will definitely be rewarded.<br/>
