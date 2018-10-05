@@ -47,7 +47,7 @@ class App extends Component {
                 Where will they be made?<br/>
                 Each will be completed at a different location.<br/>
                 <br/>
-                Where will the next one be made?<br/> 
+                Where will the next one be made?<br/>
                 The next one to be produced will happen within New York City.<br/>
                 <br/>
                 How many will you make?<br/>
